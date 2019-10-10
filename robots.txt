@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://saidohweiz.rootranger.com/sitemap.xml
